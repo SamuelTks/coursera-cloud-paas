@@ -1,2 +1,2 @@
 print("Name: Samuel Tam")
-print("Course: Programming and Application Foundations")
+print("Course: ITMO 564 Cloud: Platform as a Service")
