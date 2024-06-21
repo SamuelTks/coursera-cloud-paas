@@ -2,7 +2,10 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import networkx as nx
 
-# Create a directed graph
+# Cr
+# eate a directed graph
+# eate a directed graph
+# ate a directed graph
 G = nx.DiGraph()
 
 # Define the nodes and their positions
